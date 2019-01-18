@@ -1,0 +1,19 @@
+body{
+    background-image: url("https://images.financialexpress.com/2018/04/Yes-Bank-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 50px solid cornflowerblue;
+    
+}
+h1{
+    color: maroon;
+    text-align: center;
+}
+b{
+    color: maroon;
+}
+
+.col-sm-7{
+    margin-left: 800px;
+
+}
